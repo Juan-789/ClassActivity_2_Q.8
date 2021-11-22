@@ -7,3 +7,4 @@ seconds = int(input("Seconds "))
 degrees = (hours +(minutes/60)+(seconds/3600))*30
 degrees = degrees%360
 print (degrees)
+#Converts time to degrees
